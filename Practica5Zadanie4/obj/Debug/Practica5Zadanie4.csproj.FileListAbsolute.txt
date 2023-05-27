@@ -1,0 +1,15 @@
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\bin\Debug\Practica5Zadanie4.exe.config
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\bin\Debug\Practica5Zadanie4.exe
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\bin\Debug\Practica5Zadanie4.pdb
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.csproj.AssemblyReference.cache
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\MainWindow.g.cs
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\App.g.cs
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4_MarkupCompile.cache
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4_MarkupCompile.lref
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\MainWindow.baml
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.g.resources
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.Properties.Resources.resources
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.csproj.GenerateResource.cache
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.csproj.CoreCompileInputs.cache
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.exe
+D:\215-ZARIFULLIN\practica5\Practica5Zadanie4\obj\Debug\Practica5Zadanie4.pdb
